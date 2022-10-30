@@ -1,0 +1,18 @@
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\bin\Debug\net6.0-windows\Giris ekranı ödev.exe
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\bin\Debug\net6.0-windows\Giris ekranı ödev.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\bin\Debug\net6.0-windows\Giris ekranı ödev.runtimeconfig.json
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\bin\Debug\net6.0-windows\Giris ekranı ödev.dll
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\bin\Debug\net6.0-windows\Giris ekranı ödev.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris_ekranı_ödev.Form1.resources
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris_ekranı_ödev.Form2.resources
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.csproj.GenerateResource.cache
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.dll
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\refint\Giris ekranı ödev.dll
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\Giris ekranı ödev.genruntimeconfig.cache
+C:\Users\ismai\OneDrive\Masaüstü\Giris ekranı ödev\Giris ekranı ödev\obj\Debug\net6.0-windows\ref\Giris ekranı ödev.dll
